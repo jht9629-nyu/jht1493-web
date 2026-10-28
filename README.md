@@ -9,5 +9,6 @@ should be renamed jht1493-web
 
 https://cloud.digitalocean.com/projects/330899be/...
 
+claude prompt: style span "moLab alliance" like h2 tag
 
 ```
